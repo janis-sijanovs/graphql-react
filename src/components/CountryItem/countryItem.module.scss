@@ -1,0 +1,27 @@
+.button {
+    display: flex;
+    gap: 5px;
+    align-items: baseline;
+    background-color: transparent;
+    font-family: inherit;
+    font-size: inherit;
+    border: none;
+    cursor: pointer;
+    transition: .3s;
+
+    &:hover {
+        color: crimson;
+    }
+}
+
+.normal {
+    font-size: 40px;
+    color: black;
+    transition: .3s;
+}
+
+.expanded {
+    transition: .3s;
+    color: black;
+    transform: rotate(90deg);
+}
