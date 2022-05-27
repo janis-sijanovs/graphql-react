@@ -1,6 +1,7 @@
-# Frontend Homework 15
+# Recruitment Homework
 
-I have finished my fifteenth homework.
+A homework, that I received from a company, to test my programming abilities.
 
-This was very easy.
-All I had to do was edit the code we wrote during class.
+It involves getting data from an API with GraphQL and displaying it within a React application.
+
+I had to learn how to use GraphQL since I hadn't used it before.
