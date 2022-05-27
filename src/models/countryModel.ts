@@ -21,10 +21,10 @@ type Continent = {
   name: string
 }
 
-type State = {
+export type State = {
   name: string
 }
 
-type Language = {
+export type Language = {
   name: string
 }
