@@ -21,7 +21,7 @@ const CountryDetails = ({ propKey, title, country }: CountryDetailsProps) => {
         </li>
       )}
 
-      {!isArray && !isString && (
+      {!isArray && !isString && data && (
         <li>
           <span className={styles.category}>{title}</span>
           {data.name}
